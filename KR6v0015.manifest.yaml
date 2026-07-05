@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0015_000.yaml, hash: 'sha256:21eb927653aa4a5fa6569a67839a87794c53ae6f7d0b6d210ce881cb4ebbf89b'}
-  - {seq: 1, filename: KR6v0015_001.yaml, hash: 'sha256:66387c1b42221f092db57c3cd7c06e748ec3f93a026bd779ef4748dfc0ccedc4'}
+  - {seq: 0, filename: KR6v0015_000.yaml, hash: 'sha256:268bee3454951c9e27f4645bcdbf07af69f192be86b723a8b0de2bfee760f604'}
+  - {seq: 1, filename: KR6v0015_001.yaml, hash: 'sha256:0e604e83082e306a238bc616f3c560817625fe8310cbd0f6c0e3a3b6ae3a348b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0015_000.markers.yaml, hash: 'sha256:cf490b72a2d94668fa68c1e6d0d412f83c811baa5c703857833730d945f6f9e7'}
-  - {seq: 1, role: markers, filename: assets/KR6v0015_001.markers.yaml, hash: 'sha256:615baa2097d0a8967ba4f2788a72f9c45ccf58361607ee9c54383906a21e44d4'}
+  - {seq: 0, role: markers, filename: assets/KR6v0015_000.markers.yaml, hash: 'sha256:a7a3801cc8466ae911442e0c8eedf2a74347f121d577ed50cd89754d9d2aec64'}
+  - {seq: 1, role: markers, filename: assets/KR6v0015_001.markers.yaml, hash: 'sha256:537a9ae3ad4620698aa99fcced3aff883b12cb52797883af6fdd6fe44b81e535'}
 table_of_contents:
 - ref:
     seq: 0
@@ -52,9 +52,6 @@ table_of_contents:
   label: 佛說天公經一卷
   type: juan
   level: 1
-hash: sha256:a6044dd1a198c06a45717e98e333fe171b67aee8e630f3b97d4ee9e5606374e0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3b01596f4bbcdc284f40d66ec41e059bdb416295592f3fb45a9de606287d698a
 editions:
 - short: ZW
