@@ -19,17 +19,17 @@ metadata:
     short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0015_000-ZW.yaml, hash: 'sha256:268bee3454951c9e27f4645bcdbf07af69f192be86b723a8b0de2bfee760f604'}
+  - {seq: 0, filename: KR6v0015_000-ZW.yaml, hash: 'sha256:3d80c6da82d2f4fa7426980996da3962403f3b5db1df4696b8670922c129df62'}
   - {seq: 1, filename: KR6v0015_001-ZW.yaml, hash: 'sha256:0e604e83082e306a238bc616f3c560817625fe8310cbd0f6c0e3a3b6ae3a348b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0015_000-ZW.markers.yaml, hash: 'sha256:1492cff4813abdb4e2f4e0de3a902dc2e34649418d12aa89b2f3d0c5a7644d5f'}
+  - {seq: 0, role: markers, filename: assets/KR6v0015_000-ZW.markers.yaml, hash: 'sha256:b758ca7179a47b870afa6717f9b8ed6a3ab03dcd2d86fdd56fe475f530c42ad3'}
   - {seq: 1, role: markers, filename: assets/KR6v0015_001-ZW.markers.yaml, hash: 'sha256:c008e322e90b45b3be0be02cbfb08e6b481731b28fbcfddf73c3b6ae48cca1ac'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0015_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0015_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 569
     - 569
   label: 錄文一
@@ -55,4 +55,4 @@ table_of_contents:
   label: 佛說天公經一卷
   type: juan
   level: 1
-hash: sha256:d52a28cdc3db33e05236282c2c108d0f6fbc8c6a31df32197cb923287d19d060
+hash: sha256:f26ce3a4dfeac00ff61bfa36de7f5f63d74bb45fc9e1f7ab5eacb278b0c90ad4
